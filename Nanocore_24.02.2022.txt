@@ -1,0 +1,30 @@
+Nanocore | 24.02.2022 | Version 1.2.2.0
+
+************************************************************************************************************
+
+.rtf f717f77369555ed325573e87fc5a227b3abcbb48db19cd747c9c20eacdf01191
+.exe 96bec668680152df51ec1de1d5362c64c2aba1eda86f9121f517646f5dec2b72
+
+http://gervenneoil.buzz/plugmanzx.exe
+
+************************************************************************************************************
+
+Exec >>
+
+WINWORD.EXE /n C:\Users\Admin\AppData\Local\Temp\#PO8810.rtf
+
+EQNEDT32.EXE -Embedding
+
+C:\Users\Admin\AppData\Roaming\plugmayd7854.exe
+
+C:\Windows\SysWOW64\schtasks.exe
+
+schtasks.exe" /create /f /tn "DHCP Subsystem" /xml C:\Users\Admin\AppData\Local\Temp\tmpFEE8.tmp
+
+schtasks.exe" /create /f /tn "DHCP Subsystem Task" /xml C:\Users\Admin\AppData\Local\Temp\tmp50.tmp
+
+************************************************************************************************************
+
+c2'
+
+jamesskeithj.bounceme.net:1015
