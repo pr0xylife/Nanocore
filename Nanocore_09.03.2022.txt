@@ -1,0 +1,26 @@
+Nanocore | 09.03.2022 | Version 1.2.2.0
+
+************************************************************************************************************
+
+.ace 10740de6be6638a7a1798016f5220de210913b3406f85c31f964834bcad97356
+.exe ec1cb6c491f2aa504a9001e7d87b89855b5c1329558161e747d01463eb44e9d3
+
+https://onedrive.live.com/download?cid=0380A3DB0880A66C&resid=380A3DB0880A66C%21139&authkey=AHQnBOhUno7G9XI
+
+************************************************************************************************************
+
+Exec >>
+
+C:\Users\Admin\AppData\Local\Temp\Quotation 09032022.pdf.exe
+
+powershell.exe" Add-MpPreference -ExclusionPath "C:\Users\Admin\AppData\Local\Temp\Quotation 09032022.pdf.exe"
+
+powershell.exe" Add-MpPreference -ExclusionPath "C:\Users\Admin\AppData\Roaming\TIYfgnSyV.exe"
+
+schtasks.exe" /Create /TN "Updates\TIYfgnSyV" /XML "C:\Users\Admin\AppData\Local\Temp\tmp7F20.tmp"
+
+
+************************************************************************************************************
+
+c2'
+norly419.ddns.net:7060
