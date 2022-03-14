@@ -1,0 +1,29 @@
+Nanocore | 14.03.2022 | Version 1.2.2.0
+
+************************************************************************************************************
+
+.rtf 1abff16813defd8c23923f2fec770ffa3197f05d275688e83d641977aa6240e0
+.exe aac8efdfd3ceabbb6c37bd91950f63f7fa1575c90f8398cb4d4296f8fedc036c
+
+************************************************************************************************************
+
+Exec >>
+
+WINWORD.EXE /n C:\Users\Admin\AppData\Local\Temp\SWIFT Copy.rtf
+
+splwow64.exe 12288
+
+EQNEDT32.EXE" -Embedding
+
+C:\Users\Admin\AppData\Roaming\catjks319.exe
+
+schtasks.exe /create /f /tn "WPA Manager" /xml "C:\Users\Admin\AppData\Local\Temp\tmpF25A.tmp
+
+schtasks.exe" /create /f /tn "WPA Manager Task" /xml "C:\Users\Admin\AppData\Local\Temp\tmpF50A.tmp
+
+************************************************************************************************************
+
+http://2.58.149.41/catzx.exe
+
+c2'
+btmebd.ddns.net:1665
