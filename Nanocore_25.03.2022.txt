@@ -1,0 +1,48 @@
+Nanocore | 25.02.2022 | Version 1.2.2.0
+
+************************************************************************************************************
+
+.rar f2262c45720c4dd3fa07e829c284650d9fc75de41f2d9edaddbe0fd5e66e802d
+.exe c0ab33b61d5d9896285da573532189b283cfe249e48da061738240b3caa6dc02
+
+https://cutt.ly/VS9V6OK
+>
+https://files.catbox.moe/tc3g33.tbz2
+
+************************************************************************************************************
+
+Exec >> Win7
+
+C:\Users\Admin\AppData\Local\Temp\Payment Copy.exe
+
+C:\Windows\System32\schtasks.exe /Create /TN Updates\vuQHyhr /XML C:\Users\Admin\AppData\Local\Temp\tmp69F9.tmp
+
+C:\Users\Admin\AppData\Local\Temp\Payment Copy.exe {path}
+
+schtasks.exe /create /f /tn WAN Service /xml C:\Users\Admin\AppData\Local\Temp\tmp7021.tmp
+
+schtasks.exe /create /f /tn WAN Service Task /xml C:\Users\Admin\AppData\Local\Temp\tmp7263.tmp
+
+************************************************************************************************************
+
+Exec >> Win10
+
+C:\Users\Admin\AppData\Local\Temp\Payment Copy.exe
+
+C:\Windows\System32\schtasks.exe /Create /TN Updates\vuQHyhr /XML C:\Users\Admin\AppData\Local\Temp\tmp560D.tmp
+
+C:\Users\Admin\AppData\Local\Temp\Payment Copy.exe {path}
+
+schtasks.exe /create /f /tn DSL Manager /xml C:\Users\Admin\AppData\Local\Temp\tmp5CB4.tmp
+
+schtasks.exe /create /f /tn DSL Manager Task /xml C:\Users\Admin\AppData\Local\Temp\tmp5DDE.tmp
+
+
+************************************************************************************************************
+
+c2'
+
+express104.ddns.net:9034
+194.5.98.54:9034
+
+
