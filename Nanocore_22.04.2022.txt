@@ -14,7 +14,7 @@ Exec >>
 
 AcroRd32.exe C:\Users\Admin\AppData\Local\Temp\NEW PURCHASE ORDER.pdf
 
-"C:\Program Files\Internet Explorer\iexplore.exe" https://onedrive.live.com/download?cid=3AC522790405B312&resid=3AC522790405B312%21179&authkey=AKf_v72zOcHJ6d4
+iexplore.exe" https://onedrive.live.com/download?cid=3AC522790405B312&resid=3AC522790405B312%21179&authkey=AKf_v72zOcHJ6d4
 
 IEXPLORE.EXE SCODEF:1636 CREDAT:275457 /prefetch:2
 
